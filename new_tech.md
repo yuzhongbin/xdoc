@@ -1,1 +1,5 @@
 [光场显示3D](https://www.pendu3d.com/)
+
+[异构计算与C++](http://3ms.huawei.com/km/groups/3947034/blogs/details/9096337)
+
+[祝融计划牛人牛课第15期-智能汽车时代的操作系统](http://ilearning.huawei.com/edx/next/micro/course-v1:HuaweiX+CNE202106101516048-178+microcourse?blockID=09159b06b91348d8907875c505052ef3)
